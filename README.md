@@ -12,7 +12,7 @@ F6 → Iniciar
 
 F7 → Parar
 
-🔘 Botão na interface para Iniciar / Parar
+** 🔘 Botão na interface para Iniciar / Parar
 
 💥 Efeito visual de clique (círculo animado)
 
