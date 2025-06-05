@@ -12,7 +12,7 @@ F6 → Iniciar
 
 F7 → Parar
 
-** 🔘 Botão na interface para Iniciar / Parar
+# 🔘 Botão na interface para Iniciar / Parar
 
 💥 Efeito visual de clique (círculo animado)
 
@@ -20,7 +20,7 @@ F7 → Parar
 
 🔐 Totalmente local, sem necessidade de instalação ou extensões
 
-🚀 Como usar
+# 🚀 Como usar
 Copie o código JavaScript (disponível em bookmarklet.js ou abaixo).
 
 Crie um favorito no seu navegador.
