@@ -21,7 +21,7 @@ F7 → Parar
 🔐 Totalmente local, sem necessidade de instalação ou extensões
 
 # 🚀 Como usar
-Copie o código JavaScript (disponível em bookmarklet.js ou abaixo).
+Copie o código JavaScript (disponível em bookmarklet.js a acima).
 
 Crie um favorito no seu navegador.
 
